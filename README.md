@@ -50,9 +50,15 @@ This project was built using:
 
 
 
-## 📜 License
+## ⭐ Support the Project
 
-This project is open-source and available under the **MIT License**.
+If you enjoyed the project, give it a ⭐ on GitHub to support it!
+
+## 🤝 Contribute to the Code
+
+We welcome code contributions! You can submit pull requests or report bugs to improve the project.
+
+
 
 📢 **Have fun and enjoy the game!** 🎤🚀
 
