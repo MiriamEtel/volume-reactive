@@ -23,7 +23,7 @@ This project was built using:
 
 - **HTML, CSS, and JavaScript** for the game structure and styling.
 - **Web Audio API** for real-time voice detection and volume measurement.
-- **GitHub Pages** for hosting the game online.
+- **GitHub Pages** for hosting the game online.\*\*
 
 ## 🛠️ Installation & Setup
 
@@ -43,6 +43,9 @@ This project was built using:
 
 ## 📸 Screenshots
 
+![Game Screenshot](images/screenshot.png)
+![Gameplay Video](images/gameplay.gif)
+
 
 
 
@@ -52,7 +55,4 @@ This project was built using:
 This project is open-source and available under the **MIT License**.
 
 📢 **Have fun and enjoy the game!** 🎤🚀
-
-
-
 
