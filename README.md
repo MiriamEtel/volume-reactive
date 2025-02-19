@@ -15,7 +15,7 @@ Welcome to **Jump with Your Voice**, an interactive game where your voice contro
 1. **Allow microphone access** when prompted.
 2. **Speak or shout** to make the character jump.
 3. **Try different voice levels** to control the jump height.
-4. Have fun and challenge yourself to jump as high as possible! 🎤🏆
+4. Have fun and challenge yourself to jump as high as possible! 🎤
 
 ## 🛠️ Technologies Used
 
