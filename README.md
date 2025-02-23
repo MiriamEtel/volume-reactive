@@ -60,5 +60,5 @@ We welcome code contributions! You can submit pull requests or report bugs to im
 
 
 
-📢 **Have fun and enjoy the game!** 🎤🚀
+📢 **Have fun and enjoy the game!** 🎤
 
