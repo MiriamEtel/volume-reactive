@@ -1,6 +1,6 @@
 # 🎤 Jump with Your Voice 🚀
 
-Welcome to **Jump with Your Voice**, an interactive game where your voice controls the movement! The louder you speak, the higher the character jumps! 🗣️🎮
+Welcome to **Jump with Your Voice**, an interactive game where your voice controls the movement! The louder you speak, the higher the character jumps!
 
 👉 [Click here to play now](https://miriametel.github.io/volume-reactive/)
 
