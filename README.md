@@ -59,6 +59,5 @@ If you enjoyed the project, give it a ⭐ on GitHub to support it!
 We welcome code contributions! You can submit pull requests or report bugs to improve the project.
 
 
-
 📢 **Have fun and enjoy the game!** 🎤🚀
 
